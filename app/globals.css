@@ -1,0 +1,27 @@
+.goog-te-banner-frame.skiptranslate, .goog-te-gadget-icon, .skiptranslate {
+    display: none !important;
+  }
+  
+  .goog-tooltip {
+    display: none !important;
+  }
+  .goog-tooltip:hover {
+    display: none !important;
+  }
+  .goog-text-highlight {
+    background-color: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+  }
+  body {
+    top: 0px !important;
+}
+
+.wrapper-loading {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background: #000;
+}
